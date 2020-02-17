@@ -2,7 +2,7 @@
 
 # --------------------------------------------------------------
 
-## Using Transformer model 
+## Using Transformer model, https://www.tensorflow.org/tutorials/text/transformer
 
 ## tensorflow의 transformer 모델링 튜토리얼 참조(포어->영어 번역기), 입력값(encoder, decoder에 가사가 들어가도록)만 변경하여 적용해 봄
 
